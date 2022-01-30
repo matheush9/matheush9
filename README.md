@@ -2,7 +2,8 @@
 - 👀 Estou interessado em desenvolvimento web
 - 🌱 Atualmente estou estudando Javascript
 - 💞️ Procuro colaborar em projetos
-- 📫 Discord: mmatheus#9368 Email: matheushenr941@gmail.com
+- 📫 Discord: mmatheus#9368 
+- Email: matheushenr941@gmail.com
 
 
 <!---
