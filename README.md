@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @matheush9
 - 👀 Estou interessado em desenvolvimento web
 - 🌱 Atualmente estou estudando React
-- Discord: mmatheus#9368 
+- Discord: matheush#9368 
 - Email: matheushenr941@gmail.com
 - Linkedin: https://www.linkedin.com/in/matheus-henrique-51a2b922b
 
