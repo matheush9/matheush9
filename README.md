@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=250%2C200" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
     <h3>Software Developer</h3>
   
 <br>
